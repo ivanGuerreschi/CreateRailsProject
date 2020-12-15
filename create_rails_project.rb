@@ -1,6 +1,6 @@
 #! /usr/bin/ruby
 
-# Project Builder for Rails
+# Create Rails project
 # Copyright (C) 2020  Ivan Guerreschi                                   
 # Email ivanguerreschi86@gmail.com  
 
