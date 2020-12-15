@@ -45,5 +45,6 @@ File.open("Gemfile", 'w') { |line| line.puts uncomment_gem }
 
 system "bundle config path vendor/bundle"
 system "bundle install"
+system "bundle exec rails new ."
 
 puts "Finished Rails project created"
